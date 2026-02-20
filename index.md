@@ -6,4 +6,7 @@ This course introduces the foundations of spatial transcriptomics (ST) analysis,
 
 ---
 
-:::{note} Ready? Let's get started!
+```{note}
+:class: text-gradient
+Ready? Let's get started!
+```

@@ -11,6 +11,7 @@ project:
     - file: notebooks/02-qc_normalization_sequence_based
 site:
   options:
-    logo: ''
+    logo: 'images/spatial.png'
     folders: true
+    style: ./_static/custom.css
   template: book-theme

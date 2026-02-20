@@ -1,0 +1,21 @@
+.text-gradient em {
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+header a,
+nav a,
+header .logo,
+nav .logo,
+header [class*="logo" i],
+nav [class*="logo" i],
+header [class*="brand" i],
+nav [class*="brand" i],
+header [class*="header" i],
+nav [class*="header" i],
+header [class*="navbar" i],
+nav [class*="navbar" i] {
+  background: transparent !important;
+  box-shadow: none !important;
+}
