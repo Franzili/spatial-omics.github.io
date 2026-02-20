@@ -1,0 +1,15 @@
+version: 1
+project:
+  title: Spatial Omics Course
+  authors:
+    - name: Franziska Niemeyer
+    - name: Hanna Nebelung
+  github: Franzili/spatial-omics-course
+  toc:
+    - file: index.md
+    - file: notebooks/01_data_formats_spatialdata.ipynb
+site:
+  options:
+    logo: ''
+    folders: true
+  template: book-theme
