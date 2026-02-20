@@ -1,0 +1,14 @@
+title: Spatial Omics Course
+author: Franziska Niemeyer, Hanna Nebelung
+logo: ""
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: https://github.com/Franzili/spatial-omics.github.io
+  branch: main
+
+html:
+  use_issues_button: true
+  use_repository_button: true
