@@ -7,7 +7,8 @@ project:
   github: Franzili/spatial-omics-course
   toc:
     - file: index.md
-    - file: notebooks/01_data_formats_spatialdata.ipynb
+    - file: notebooks/01-data_formats_spatialdata
+    - file: notebooks/02-qc_normalization_sequence_based
 site:
   options:
     logo: ''
