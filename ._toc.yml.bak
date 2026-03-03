@@ -1,7 +1,11 @@
 format: jb-book
 root: index
 chapters:
-  - file: notebooks/01-data_formats_spatialdata
-  - file: notebooks/02-qc_normalization_sequence_based
-  - file: notebooks/03-spatial_stats
-  - file: notebooks/04-cell-cell-communication
+    - file: index.md
+    - file: notebooks/01-data_formats_spatialdata
+    - file: notebooks/02-qc_normalization_sequence_based
+    - file: notebooks/03-qc_normalization_img_st.ipynb
+    - file: notebooks/04-segmentation.ipynb
+    - file: notebooks/05-spatial_stats.ipynb
+    - file: notebooks/06-niche_domain.ipynb
+    - file: notebooks/07-cell-cell-communication.ipynb
